@@ -1,4 +1,4 @@
-﻿# Hangman Game 
+﻿# CodeAlpha - Hangman Game 
 
 A simple text-based **Hangman Game** developed in **Python**. The player tries to guess a randomly selected word by entering one letter at a time. The game allows a maximum of **6 incorrect guesses** before the player loses.
 
